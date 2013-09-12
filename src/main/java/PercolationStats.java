@@ -10,16 +10,16 @@ public class PercolationStats {
     }
 
     public double mean() {
-        0
+        return 0.0;
     }
     public double stddev() {
-        0
+        return 0.0;
     }
     public double confidenceLo() {
-        0
+        return 0.0;
     }
     public double confidenceHi() {
-        0
+        return 0.0;
     }
 
     public static void main(String[] args) {
